@@ -18,7 +18,7 @@ export default function FormRegister() {
         </div>
         <div className="mb-3">
           <Label htmlFor={'email'} name={'Email'} />
-          <Input id={'email'} placeholder='Email' />
+          <Input type={'email'} id={'email'} placeholder='Email' />
         </div>
         <div className="mb-3">
           <Label htmlFor={'password'} name={'Password'} />

@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <>
       <div className="px-8 lg:px-4 min-h-screen w-full flex justify-center items-center">
-        <div className="w-full lg:w-1/3 px-5 py-8 h-[18.5rem] shadow-md rounded-md border-slate-200 relative hover:translate-y-1 hover:shadow-xl transition ease-linear" data-aos="zoom-in">
+        <div className="w-full lg:w-1/3 px-5 py-8 h-[18.5rem] shadow-md rounded-md border-slate-200 relative hover:translate-y-1 hover:shadow-xl transition ease-linear" >
           <h1 className="text-3xl font-bold text-center uppercase">Pre Test</h1>
           <ul className="list-disc ms-5 mt-6 capitalize">
             <li>Membuat form register dan login</li>

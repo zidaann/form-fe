@@ -2,6 +2,7 @@
   "extends": "next/core-web-vitals",
   "rules": {
     "react/display-name": 0,
-    "react/no-unescaped-entities": 0
+    "react/no-unescaped-entities": 0,
+    "@next/next/no-title-in-document-head": 0
   }
 }
